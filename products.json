@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "url":"https://www.example-product.com/productandroid",
+        "keywords":["mobile","smartphone","android"]
+    },
+    {
+        "id":"2",
+        "url":"https://www.example-product.com/productapple",
+        "keywords":["mobile","smartphone","apple","ios"]
+    },
+    {
+        "id":"3",
+        "url":"https://www.example-product.com/producttv",
+        "keywords":["TV","Samsung"]
+    },
+    {
+        "id":"4",
+        "url":"https://www.example-product.com/productsmarttv",
+        "keywords":["TV","Sony"]
+    },
+    {
+        "id":"5",
+        "url":"https://www.example-product.com/productsonylaptop",
+        "keywords":["Laptop","Sony"]
+    }
+]
